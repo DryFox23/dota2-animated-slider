@@ -41,4 +41,4 @@ const initSlider = (type) => {
 // Autoplay slider
 let runAutoPlay = setTimeout(() => {
     next.click();
-}, 5000);
+}, 7000);
